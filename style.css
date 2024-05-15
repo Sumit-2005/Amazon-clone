@@ -9,6 +9,7 @@
     background-color: #0f1111;
     color: white;
     display: flex;
+    align-items: center;
 }
 
 .nav-logo {
@@ -34,6 +35,7 @@
 .add-1 {
     color: #CCCCCC;
     font-size: 0.85rem;
+    margin-left: 13px;
 }
 
 .add-2 {
@@ -41,3 +43,14 @@
     font-size: 1rem;
 }
 
+.add-icon {
+    display: flex;
+}
+
+.nav-address {
+    border: 2px solid transparent;
+}
+
+.nav-address:hover {
+    border: 2px solid white;
+}
