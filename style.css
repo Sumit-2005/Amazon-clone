@@ -47,10 +47,4 @@
     display: flex;
 }
 
-.nav-address {
-    border: 2px solid transparent;
-}
 
-.nav-address:hover {
-    border: 2px solid white;
-}
