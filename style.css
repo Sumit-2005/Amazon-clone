@@ -85,3 +85,41 @@
     border-bottom-right-radius: 5px;
     color: #0f1111;
 }
+
+.nav-signin {
+    height: 50px;
+    width: 135px;
+    border: 2px solid transparent;
+}
+
+.nav-signin:hover {
+    border: 2px solid white;
+}
+
+.sign-in {
+    font-size: 12px;
+    color: #ffffff;
+}
+
+.account {
+    font-size: 15px;
+    color: #ffffff;
+    font-weight: 700;
+}
+
+.nav-return {
+    border: 2px solid transparent;
+}
+
+.nav-return:hover {
+    border: 2px solid white;
+}
+
+.returns {
+    font-size: 0.7rem;
+}
+
+.order {
+    font-size: 0.85rem;
+    font-weight: 700;
+}
