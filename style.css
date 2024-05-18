@@ -183,9 +183,11 @@
 
 .shop-sec {
     display: flex;
+    flex-wrap: wrap;
     background-color: #e2e7e6; 
     justify-content: space-evenly;
 }
+
 .box {
     height: 400px;
     width: 23%; 
@@ -235,4 +237,34 @@
     margin-bottom: 1rem;
 }
 
+.box5-img {
+    background-image: url("box4_image.jpg");
+    background-size: cover;
+    height: 330px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
 
+.box6-img {
+    background-image: url("box5_image.jpg");
+    background-size: cover;
+    height: 330px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.box7-img {
+    background-image: url("box6_image.jpg");
+    background-size: cover;
+    height: 330px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.box8-img {
+    background-image: url("box8_image.jpg");
+    background-size: cover;
+    height: 330px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
