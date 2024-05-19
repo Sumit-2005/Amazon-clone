@@ -316,3 +316,28 @@ ul p {
     height: 50px;
     width: 100px;
 }
+
+.foot-panel4 {
+    background-color: #131a22;
+    color: #dddddd;
+    height: 80px;
+
+}
+
+.pages {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.pages a {
+    margin-top: 10px;
+    font-size: 0.85rem;
+    margin-right: 7px;
+
+}
+
+.copyright {
+    font-size: 0.85rem;
+    text-align: center;
+    margin-top: 5px;
+}
