@@ -59,7 +59,7 @@
 }
 
 .nav-search:hover {
-    border: 2px solid orange;
+    border: 3px solid orange;
 }
 
 .search-select {
@@ -181,6 +181,11 @@
     color: #007185;
 }
 
+.hero-msg a:hover {
+    text-decoration: underline;
+    color: red;
+}
+
 .shop-sec {
     display: flex;
     flex-wrap: wrap;
@@ -194,6 +199,16 @@
     background-color: white;
     padding: 20px 0px 15px;
     margin-top: 15px;
+}
+
+.box p {
+    font-size: 0.85rem;
+}
+
+.box p:hover {
+    color: red;
+    text-decoration: underline;
+    font-size: 0.85rem; 
 }
 
 .box1-img {
@@ -280,6 +295,7 @@
     margin-top: 10px;
 }
 
+
 .foot-panel2 {
     background-color: #222f3d;
     color: white;
@@ -293,6 +309,10 @@ ul a {
     display: block;
     margin-top: 10px;
     font-size: 0.85rem;
+}
+
+ul a:hover {
+    text-decoration: underline;
 }
 
 ul p {
@@ -333,7 +353,10 @@ ul p {
     margin-top: 10px;
     font-size: 0.85rem;
     margin-right: 7px;
+}
 
+.pages a:hover {
+    text-decoration: underline;
 }
 
 .copyright {
