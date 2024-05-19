@@ -295,6 +295,10 @@
     margin-top: 10px;
 }
 
+.foot-panel1:hover {
+    background-color: #374255;
+}
+
 
 .foot-panel2 {
     background-color: #222f3d;
